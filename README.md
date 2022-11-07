@@ -1,2 +1,5 @@
-# Rethink-Academy
-Resolução do desafio Engenharia/QA
+# 🎓 Rethink Academy | Desafio Engenharia/QA
+
+Resolução do desafio:
+
+
